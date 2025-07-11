@@ -1,0 +1,9 @@
+{
+    "pluginLists": [
+        "https://raw.githubusercontent.com/crstlnz/kc_provider/builds/plugins.json"
+    ],
+    "id": "crstlnz",
+    "manifestVersion": 1,
+    "description": "Developed by crstlnz",
+    "name": "Crstlnz Provider"
+}

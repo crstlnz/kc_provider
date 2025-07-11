@@ -1,0 +1,56 @@
+[
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kiryuu.co/&size=256",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crstlnz/kc_provider",
+        "fileSize": 18477,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Crstlnz"
+        ],
+        "version": 7,
+        "internalName": "Kiryuu",
+        "nsfw": false,
+        "repoId": "crstlnz",
+        "description": "Situs Baca Komik Terbaik di Indonesia",
+        "url": "https://raw.githubusercontent.com/crstlnz/kc_provider/builds/Kiryuu.kc",
+        "name": "Kiryuu"
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://komikdewasa.art/&size=256",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crstlnz/kc_provider",
+        "fileSize": 14720,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Crstlnz"
+        ],
+        "version": 4,
+        "internalName": "KomikDewasa",
+        "nsfw": true,
+        "repoId": "crstlnz",
+        "description": "Komik Dewasa Teks Indonesia",
+        "url": "https://raw.githubusercontent.com/crstlnz/kc_provider/builds/KomikDewasa.kc",
+        "name": "KomikDewasa"
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://mangakatana.com&size=256",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/crstlnz/kc_provider",
+        "fileSize": 15626,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Crstlnz"
+        ],
+        "version": 2,
+        "internalName": "Mangakatana",
+        "nsfw": false,
+        "repoId": "crstlnz",
+        "description": "Web Mangakatana",
+        "url": "https://raw.githubusercontent.com/crstlnz/kc_provider/builds/Mangakatana.kc",
+        "name": "Mangakatana"
+    }
+]
