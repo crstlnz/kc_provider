@@ -1,9 +1,9 @@
 {
-  "version": 30,
-  "name": "1.0.1-Beta",
-  "apkUrl": "https://github.com/lockby/crx/releases/download/1.0.1-Beta/app-release.apk",
-  "body": "- Fix Recent History\n- Fix Chapter list on Chapter Read Screen\n- Fix Cache\n- Fix Bookmark Link",
-  "size": 16636331,
-  "tag": "1.0.1-Beta",
-  "githubReleaseUrl": "https://github.com/lockby/crx/releases/tag/1.0.1-Beta"
+  "version": 31,
+  "name": "1.0.0-Beta",
+  "apkUrl": "https://github.com/lockby/crx/releases/download/1.0.0-Beta/app-release.apk",
+  "body": "- Mengubah sistem provider komik menjadi plugin yang dapat diunduh secara terpisah\n- Memperbarui provider tanpa perlu update aplikasi\n- Meningkatkan stabilitas akses ke sumber komik\n- Mengoptimalkan kecepatan pemuatan plugin provider\n- Menambahkan notifikasi untuk pembaruan plugin terbaru",
+  "size": 16652843,
+  "tag": "1.0.0-Beta",
+  "githubReleaseUrl": "https://github.com/lockby/crx/releases/tag/1.0.0-Beta"
 }
