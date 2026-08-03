@@ -1,9 +1,9 @@
 {
-  "version": 32,
-  "name": "1.0.1-Beta",
-  "apkUrl": "https://github.com/lockby/crx/releases/download/1.0.1-Beta/app-release.apk",
-  "body": "- fix chapter image cant loaded",
-  "size": 16652843,
-  "tag": "1.0.1-Beta",
-  "githubReleaseUrl": "https://github.com/lockby/crx/releases/tag/1.0.1-Beta"
+  "version": 34,
+  "name": "1.0.3-Beta",
+  "apkUrl": "https://github.com/lockby/crx/releases/download/1.0.3-Beta/app-release.apk",
+  "body": "- update ui",
+  "size": 16652847,
+  "tag": "1.0.3-Beta",
+  "githubReleaseUrl": "https://github.com/lockby/crx/releases/tag/1.0.3-Beta"
 }
