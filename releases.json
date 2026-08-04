@@ -1,9 +1,9 @@
 {
-  "version": 35,
-  "name": "1.0.4-Beta",
-  "apkUrl": "https://github.com/lockby/crx/releases/download/1.0.4-Beta/app-release.apk",
-  "body": "- fix zoomable gesture on readerscreen\n- fix caches\n- optimize image load\n- clean old package and logic",
-  "size": 18871825,
-  "tag": "1.0.4-Beta",
-  "githubReleaseUrl": "https://github.com/lockby/crx/releases/tag/1.0.4-Beta"
+  "version": 36,
+  "name": "1.0.5-Beta",
+  "apkUrl": "https://github.com/lockby/crx/releases/download/1.0.5-Beta/app-release.apk",
+  "body": "- fix search\n- fix caches",
+  "size": 18888213,
+  "tag": "1.0.5-Beta",
+  "githubReleaseUrl": "https://github.com/lockby/crx/releases/tag/1.0.5-Beta"
 }
